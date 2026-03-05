@@ -6,7 +6,6 @@ import Properties from "./components/Properties";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import WhatsApp from "./components/WhatsApp";
-import Om from "./components/Om";
 
 function App() {
   return (
